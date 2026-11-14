@@ -1,0 +1,8 @@
+nombre = input("como te llamas?")
+edad = input("Cuantos años tienes?")
+peso= float(input("cuanto pesas?"))
+estatura =float(input("cuanto mides?"))
+print(f"Hola {nombre}, Bienvenido a python!")
+print(f"tienes {edad} años, \n pesas {peso} kilos y \n mides {estatura} metros")
+imc= peso/(estatura**2)
+print(f"Tu imc es: {imc}")

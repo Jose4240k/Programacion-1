@@ -1,4 +1,4 @@
-
+#Cifra el mensaje escrito por el usuario
 minusculas = "abcdefghijklmnñopqrstuvwxyz"
 mayusculas = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
 
